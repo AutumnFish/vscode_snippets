@@ -64,5 +64,12 @@
 			"</html>"
 		],
 		"description": "快速创建视口属性"
+	},
+	"my_a": {
+		"prefix": "my_a",
+		"body": [
+			"a[href='javascript:void(0)']{$0}"
+		],
+		"description": "快速创建a标签"
 	}
 }
