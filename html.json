@@ -71,5 +71,12 @@
 			"a[href='javascript:void(0)']{$0}"
 		],
 		"description": "快速创建a标签"
+	},
+		"my_template": {
+		"prefix": "my_tem",
+		"body": [
+			"<script type=\"text/html\" id=\"$1\">$0</script>"
+		],
+		"description": "模板"
 	}
 }
