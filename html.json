@@ -24,21 +24,21 @@
 	"my_script": {
 		"prefix": "my_script",
 		"body": [
-			"<script type=\"text/javascript\">$0</script>"
+			"<script >$0</script>"
 		],
 		"description": "快速创建script标签"
 	},
 	"my_script_src": {
 		"prefix": "my_script_src",
 		"body": [
-			"<script type=\"text/javascript\" src=\"$0\"></script>"
+			"<script  src=\"$0\"></script>"
 		],
 		"description": "快速创建script标签带src"
 	},
 	"my_link": {
 		"prefix": "my_link",
 		"body": [
-			"<link rel = \"stylesheet\" type=\"text/css\" href = \"$0\" / >"
+			"<link rel = \"stylesheet\"  href = \"$0\" / >"
 		],
 		"description": "快速创建link标签"
 	},
