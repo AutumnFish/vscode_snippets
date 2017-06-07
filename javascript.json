@@ -52,14 +52,14 @@
 	"my_qs": {
 		"prefix": "my_qs",
 		"body": [
-			"document.querySelector('$0')"
+			"document.querySelector('$1')"
 		],
 		"description": "快速生成QS"
 	},
 		"my_qsa": {
 		"prefix": "my_qsa",
 		"body": [
-			"document.querySelectorAll('$0')"
+			"document.querySelectorAll('$1')"
 		],
 		"description": "快速生成QSA"
 	}
