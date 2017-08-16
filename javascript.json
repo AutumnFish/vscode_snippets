@@ -73,14 +73,5 @@
 			"document.querySelectorAll('$1')"
 		],
 		"description": "快速生成QSA"
-	},
-	 "my_log_2": {
-			"prefix": "my_log_2",
-			"body": [
-				"console.log('$1');",
-				"console.log('$2');",
-				"console.log('$3');"
-			],
-			"description": "非常厉害的 log 3次哦"
-		}
+	}
 }
