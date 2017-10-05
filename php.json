@@ -41,5 +41,12 @@
 			"header('Access-Control-Allow-Origin: *');"
 		],
 		"description": "允许跨域访问"
+	},
+	 "my_header_reflash": {
+		"prefix": "my_header_reflash",
+		"body": [
+			"header('refresh:$1;url=$2');"
+		],
+		"description": "刷新页面"
 	}
 }
