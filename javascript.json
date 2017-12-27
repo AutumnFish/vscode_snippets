@@ -75,10 +75,10 @@
 		"description": "快速生成QSA"
 	},
 	".log": {
-		"prefix": ".log",
-		"body": [
-			"console.log($0)"
-		],
-		"description": "快速生成log"
-	}
+			"prefix": ".log",
+			"body": [
+				"console.log($1);",
+			],
+			"description": "自己实现的快速呼出console.log"
+		}
 }
